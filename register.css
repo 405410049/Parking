@@ -1,0 +1,13 @@
+body{
+	margin-left:auto;
+	margin-bottom:auto;
+	text-align:center;
+	font-size:55px;
+	font-family:Microsoft JhengHei;
+	background-color:#FFEFD5;
+}
+#btn{
+	width:160px;
+	height:40px;
+	font-size:25px;
+}
